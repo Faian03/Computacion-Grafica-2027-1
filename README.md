@@ -1,1 +1,6 @@
 # Computacion-Grafica-2027-1
+NOMBRE COMPLETO: Garcia Cardenas Fabian
+Nº de Cuenta: 317136421
+GRUPO DE LABORATORIO: 2
+GRUPO DE TEORÍA: 7
+SEMESTRE 2027-1
